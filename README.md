@@ -1,8 +1,11 @@
 # Leveraging Pre-Trained Transformers for Sentiment Analysis: An Empirical Study on IMDb Movie Reviews
 
 Guillaume-Le Gall Maela
+
 MScT Data & Economics for Public Policy
+
 École Polytechnique
+
 maela.guillaume-le-gall@polytechnique.edu
 
 ## Abstract
